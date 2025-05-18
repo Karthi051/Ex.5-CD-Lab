@@ -1,7 +1,7 @@
 # Ex.No:5
 # RECOGNITION OF THE GRAMMAR(a^nb where n>=10) USING YACC
 ## Register Number:212223230101
-## Date:18/05/2025
+## Date:8/05/2025
 ## AIM:
 To write a YACC program to recognize the grammar a^nb where n>=10.
 ## ALGORITHM:
